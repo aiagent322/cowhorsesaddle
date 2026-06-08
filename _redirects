@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects
+/home /index.html 301
+/saddles /used-saddles.html 301
+/guide /buying-guide.html 301
+/matchmaker /saddle-matchmaker.html 301
